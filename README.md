@@ -14,11 +14,11 @@
  </br>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-🚀- [HTML](https://pt.wikipedia.org/wiki/HTML)
+🚀[HTML](https://pt.wikipedia.org/wiki/HTML)
  </br>
-🚀- [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
+🚀[CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
  </br>
-🚀- [JavaScript](https://pt.wikipedia.org/wiki/JavaScript)
+🚀[JavaScript](https://pt.wikipedia.org/wiki/JavaScript)
 
 
 
