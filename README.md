@@ -6,9 +6,9 @@
  </br>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Html](https://pt.wikipedia.org/wiki/HTML)
-- [Css](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
-- [Javascript](https://pt.wikipedia.org/wiki/JavaScript)
+- [HTML](https://pt.wikipedia.org/wiki/HTML)
+- [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [JavaScript](https://pt.wikipedia.org/wiki/JavaScript)
 
 
 
