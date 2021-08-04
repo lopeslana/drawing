@@ -11,7 +11,6 @@
  
  
  <h1>🚀 Tecnologias</h1>
- </br>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 🚀[HTML](https://pt.wikipedia.org/wiki/HTML)
