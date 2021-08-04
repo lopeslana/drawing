@@ -4,7 +4,9 @@
 </h1>
  <h1>⚙ Funcionalidades</h1>
 - Função de desenho dentro do canvas
+ </br>
 - Escolha e troca da cor
+ </br>
 - Botão Clear - com função de limpar o quadro
  
  
