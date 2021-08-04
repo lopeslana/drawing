@@ -2,8 +2,9 @@
 
 </h1>
 
-
-<a href="https://ibb.co/F0JN6M5"><img src="https://i.ibb.co/CMvNBZb/imagem-2021-08-04-145547.png" alt="imagem-2021-08-04-145547" border="0"></a>
+<center>
+<a href="https://ibb.co/F0JN6M5"><img src="https://i.ibb.co/CMvNBZb/imagem-2021-08-04-145547.png" alt="imagem-2021-08-04-145547" border="0" width="400px" ></a>
+  </center>
 
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
