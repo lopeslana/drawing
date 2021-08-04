@@ -3,7 +3,7 @@
 </h1>
 
 
-<img src=".https://ibb.co/F0JN6M5" width="400px">
+<a href="https://ibb.co/F0JN6M5"><img src="https://i.ibb.co/CMvNBZb/imagem-2021-08-04-145547.png" alt="imagem-2021-08-04-145547" border="0"></a>
 
 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
