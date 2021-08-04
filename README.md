@@ -1,4 +1,7 @@
-🎨 Canvas feito para desenho
+<h1 align="center">🎨 Canvas feito para desenho
+
+</h1>
+
 
 <img src=".https://ibb.co/F0JN6M5" width="400px">
 
